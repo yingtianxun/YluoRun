@@ -1,4 +1,6 @@
-package com.example.yluorun;
+package com.yluo.yluorun;
+
+import com.example.yluorun.R;
 
 import android.app.Activity;
 import android.os.Bundle;
